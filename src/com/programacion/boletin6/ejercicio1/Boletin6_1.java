@@ -8,7 +8,7 @@ public class Boletin6_1 {
 			coche.acelerar(2*i);
 			System.out.printf("Velocidad actual: %d \n", coche.getVelocidade());
 		}
-		
+
 		for (int i = 1; i < 10; i++) {
 			coche.frenar(i);
 			System.out.printf("Velocidad actual: %d \n", coche.getVelocidade());
