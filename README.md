@@ -7,3 +7,4 @@
 - [x] [Boletín 5](/src/com/programacion/boletin5)  
 - [x] [Boletín 6](/src/com/programacion/boletin6)  
 - [x] [Boletín 7](/src/com/programacion/boletin7)   
+- [x] [Boletín 8](/src/com/programacion/boletin8)   
