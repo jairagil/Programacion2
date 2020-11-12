@@ -6,3 +6,4 @@
 - [x] [Boletín 4](/src/com/programacion/boletin4)
 - [x] [Boletín 5](/src/com/programacion/boletin5)  
 - [x] [Boletín 6](/src/com/programacion/boletin6)  
+- [x] [Boletín 7](/src/com/programacion/boletin7)   
