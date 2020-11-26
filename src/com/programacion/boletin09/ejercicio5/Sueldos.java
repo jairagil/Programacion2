@@ -8,8 +8,8 @@ public class Sueldos {
 		menosMil = masMil = 0;
 
 		for (Integer sueldo : sueldos) {
-			if (sueldo == 0) {
-				break;
+			if (sueldo < 0) {
+				continue;
 			}
 
 			if (sueldo >= 1000 && sueldo <= 1700) {
