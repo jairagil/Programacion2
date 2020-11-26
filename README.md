@@ -1,11 +1,13 @@
 # Programación
 
 ## Boletines
-- [x] [Boletín 2](/src/com/programacion/boletin2)  
-- [x] [Boletín 3](/src/com/programacion/boletin3)  
-- [x] [Boletín 4](/src/com/programacion/boletin4)
-- [x] [Boletín 5](/src/com/programacion/boletin5)  
-- [x] [Boletín 6](/src/com/programacion/boletin6)
-- [x] [Boletín 7](/src/com/programacion/boletin7)  
-- [x] [Boletín 8](/src/com/programacion/boletin8)  
-- [x] [Boletín 9](/src/com/programacion/boletin9)  
+- [x] ~~Boletín 1~~  
+- [x] [Boletín 2](/src/com/programacion/boletin02)  
+- [x] [Boletín 3](/src/com/programacion/boletin03)  
+- [x] [Boletín 4](/src/com/programacion/boletin04)
+- [x] [Boletín 5](/src/com/programacion/boletin05)  
+- [x] [Boletín 6](/src/com/programacion/boletin06)
+- [x] [Boletín 7](/src/com/programacion/boletin07)  
+- [x] [Boletín 8](/src/com/programacion/boletin08)  
+- [x] [Boletín 9](/src/com/programacion/boletin09)  
+- [ ] Boletín 10  
