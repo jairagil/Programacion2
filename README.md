@@ -10,7 +10,8 @@
 - [x] [Boletín 7](/src/com/programacion/boletin07)  
 - [x] [Boletín 8](/src/com/programacion/boletin08)  
 - [x] [Boletín 9](/src/com/programacion/boletin09)  
-- [ ] Boletín 10  
+- [x] ~~Boletín 10~~  
+- [ ] [Boletín 11](/src/com/programacion/boletin11)  
 
 
 ## Extras
