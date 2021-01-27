@@ -16,3 +16,7 @@
 - [x] [Boletín 11](/src/com/programacion/Evaluacion1/boletin11)  
 
 ### 2º Evaluación 
+- [x] [Boletín 12](/src/com/programacion/Evaluacion2/boletin12)
+- [ ] Boletín 13
+- [ ] Boletín 14
+
