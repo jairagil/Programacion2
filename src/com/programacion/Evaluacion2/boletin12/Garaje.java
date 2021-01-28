@@ -37,7 +37,7 @@ public class Garaje {
 				tiempo -= 3*60;
 				resultado += (3 * 1.5f + (tiempo / 60) * 0.2f);
 			} else {
-				resultado += (tiempo / 60) * 1.5;
+				resultado += 1.5;
 			}
 		}
 
