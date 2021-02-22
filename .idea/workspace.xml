@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a938ecc9-0858-4b84-880c-cf22b53025a0" name="Default Changelist" comment="Contenido reestructurado">
+      <change afterPath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin16/Boletin16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin16/Ejercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin16/Ejercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin16/Ejercicio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin02/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin02/Ejercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin02/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin02/Ejercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin02/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin02/Ejercicio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin02/Ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin02/Ejercicio4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin02/Ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin02/Ejercicio5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin03/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin03/Ejercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin03/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin03/Ejercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin03/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin03/Ejercicio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin03/Ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin03/Ejercicio4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin03/Ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin03/Ejercicio5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin04/Boletin4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin04/Boletin4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin04/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin04/Libro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin05/Boletin5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin05/Boletin5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin05/Consumo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin05/Consumo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin06/ejercicio1/Boletin6_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin06/ejercicio1/Boletin6_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin06/ejercicio1/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin06/ejercicio1/Coche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin06/ejercicio2/Boletin6_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin06/ejercicio2/Boletin6_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin06/ejercicio2/Satelite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin06/ejercicio2/Satelite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin06/ejercicio3/Boletin6_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin06/ejercicio3/Boletin6_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin06/ejercicio3/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin06/ejercicio3/Circulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin07/ejercicio1/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin07/ejercicio1/Ejercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin07/ejercicio1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin07/ejercicio1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin07/ejercicio2/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin07/ejercicio2/Ejercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin07/ejercicio2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin07/ejercicio2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin07/ejercicio3/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin07/ejercicio3/Ejercicio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin07/ejercicio3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin07/ejercicio3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin07/ejercicio4/Ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin07/ejercicio4/Ejercicio4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin07/ejercicio4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin07/ejercicio4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin07/ejercicio5/Ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin07/ejercicio5/Ejercicio5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin07/ejercicio5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin07/ejercicio5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin08/ejercicio1/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin08/ejercicio1/Ejercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin08/ejercicio1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin08/ejercicio1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin08/ejercicio2/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin08/ejercicio2/Ejercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin08/ejercicio2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin08/ejercicio2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin09/ejercicio1/Contador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin09/ejercicio1/Contador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin09/ejercicio1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin09/ejercicio1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin09/ejercicio2/Contador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin09/ejercicio2/Contador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin09/ejercicio2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin09/ejercicio2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin09/ejercicio3/Contador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin09/ejercicio3/Contador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin09/ejercicio3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin09/ejercicio3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin09/ejercicio4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin09/ejercicio4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin09/ejercicio4/Multiplos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin09/ejercicio4/Multiplos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin09/ejercicio5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin09/ejercicio5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin09/ejercicio5/Sueldos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin09/ejercicio5/Sueldos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin11/ejercicio1/Juego.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin11/ejercicio1/Juego.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin11/ejercicio1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin11/ejercicio1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin11/ejercicio2/JuegoOrdenador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin11/ejercicio2/JuegoOrdenador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin11/ejercicio2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion1/boletin11/ejercicio2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin12/Boletin12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin12/Boletin12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin12/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin12/Coche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin12/Garaje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin12/Garaje.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin13/Ave.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin13/Ave.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin13/Avestruz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin13/Avestruz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin13/Boletin13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin13/Boletin13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin13/Felino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin13/Felino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin13/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin13/Gato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin13/IPuedeCaminar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin13/IPuedeCaminar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin13/IPuedeNadar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin13/IPuedeNadar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin13/IPuedeVolar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin13/IPuedeVolar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin13/Mamifero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin13/Mamifero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin13/Murcielago.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin13/Murcielago.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin13/Papagayo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin13/Papagayo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin13/Tigre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin13/Tigre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin14/Boletin14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin14/Boletin14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin14/ConversorTemperaturas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin14/ConversorTemperaturas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin14/TemperaturaErradaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin14/TemperaturaErradaException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin15/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin15/Ejercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin15/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin15/Ejercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin15/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin15/Ejercicio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin15/Ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aira/evaluacion2/boletin15/Ejercicio4.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1o1nhApvswUnRDiCcIfMnZiGk4J" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15039062" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="inlay.hints.JAVA" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Boletin16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="evaluacion2.boletin16.Boletin16" />
+      <module name="Programacion2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="evaluacion2.boletin16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Boletin16" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a938ecc9-0858-4b84-880c-cf22b53025a0" name="Default Changelist" comment="" />
+      <created>1612463082382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612463082382</updated>
+      <workItem from="1612463085469" duration="402000" />
+      <workItem from="1612463574152" duration="344000" />
+      <workItem from="1612463934198" duration="387000" />
+      <workItem from="1612947925723" duration="3308000" />
+      <workItem from="1613116998814" duration="610000" />
+      <workItem from="1613721096743" duration="324000" />
+      <workItem from="1613976218091" duration="1220000" />
+    </task>
+    <task id="LOCAL-00001" summary="Contenido reestructurado">
+      <created>1612464053737</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612464053737</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Contenido reestructurado">
+      <created>1612464265355</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612464265355</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixup! Contenido reestructurado" />
+    <MESSAGE value="Contenido reestructurado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Contenido reestructurado" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="120" y="103" key="#Project_Structure" timestamp="1612463581428">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="120" y="103" key="#Project_Structure/0.0.2560.1050/2560.-1090.3840.2130@0.0.2560.1050" timestamp="1612463581428" />
+    <state x="1527" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1612949064036">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1527" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1050/2560.-1090.3840.2130@0.0.2560.1050" timestamp="1612949064036" />
+    <state x="1452" y="275" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612951341147">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1452" y="275" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1050/2560.-1090.3840.2130@0.0.2560.1050" timestamp="1612951341147" />
+    <state x="272" y="112" width="1284" height="900" key="CommitChangelistDialog2" timestamp="1612464281308">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="272" y="112" width="1284" height="900" key="CommitChangelistDialog2/0.0.2560.1050/2560.-1090.3840.2130@0.0.2560.1050" timestamp="1612464281308" />
+    <state width="1234" height="285" key="GridCell.Tab.0.bottom" timestamp="1613977426901">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="1234" height="285" key="GridCell.Tab.0.bottom/0.0.2560.1050/2560.-1090.3840.2130@0.0.2560.1050" timestamp="1613977426901" />
+    <state width="1234" height="285" key="GridCell.Tab.0.center" timestamp="1613977426901">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="1234" height="285" key="GridCell.Tab.0.center/0.0.2560.1050/2560.-1090.3840.2130@0.0.2560.1050" timestamp="1613977426901" />
+    <state width="1234" height="285" key="GridCell.Tab.0.left" timestamp="1613977426900">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="1234" height="285" key="GridCell.Tab.0.left/0.0.2560.1050/2560.-1090.3840.2130@0.0.2560.1050" timestamp="1613977426900" />
+    <state width="1234" height="285" key="GridCell.Tab.0.right" timestamp="1613977426901">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="1234" height="285" key="GridCell.Tab.0.right/0.0.2560.1050/2560.-1090.3840.2130@0.0.2560.1050" timestamp="1613977426901" />
+    <state width="1630" height="351" key="GridCell.Tab.1.bottom" timestamp="1612951350787">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="1630" height="351" key="GridCell.Tab.1.bottom/0.0.2560.1050/2560.-1090.3840.2130@0.0.2560.1050" timestamp="1612951350787" />
+    <state width="1630" height="351" key="GridCell.Tab.1.center" timestamp="1612951350787">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="1630" height="351" key="GridCell.Tab.1.center/0.0.2560.1050/2560.-1090.3840.2130@0.0.2560.1050" timestamp="1612951350787" />
+    <state width="1630" height="351" key="GridCell.Tab.1.left" timestamp="1612951350787">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="1630" height="351" key="GridCell.Tab.1.left/0.0.2560.1050/2560.-1090.3840.2130@0.0.2560.1050" timestamp="1612951350787" />
+    <state width="1630" height="351" key="GridCell.Tab.1.right" timestamp="1612951350787">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state width="1630" height="351" key="GridCell.Tab.1.right/0.0.2560.1050/2560.-1090.3840.2130@0.0.2560.1050" timestamp="1612951350787" />
+    <state x="1329" y="95" key="SettingsEditor" timestamp="1613977140814">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1329" y="95" key="SettingsEditor/0.0.2560.1050/2560.-1090.3840.2130@0.0.2560.1050" timestamp="1613977140814" />
+    <state x="1026" y="218" key="new project wizard" timestamp="1613721418850">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1026" y="218" key="new project wizard/0.0.2560.1050/2560.-1090.3840.2130@0.0.2560.1050" timestamp="1613721418850" />
+    <state x="1385" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1612948162680">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="1385" y="233" width="672" height="678" key="search.everywhere.popup/0.0.2560.1050/2560.-1090.3840.2130@0.0.2560.1050" timestamp="1612948162680" />
+  </component>
+</project>

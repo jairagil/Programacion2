@@ -1,4 +1,4 @@
-package Evaluacion1.boletin09.ejercicio4;
+package evaluacion1.boletin09.ejercicio4;
 
 public class Multiplos {
 	public void calcular(int numero) {

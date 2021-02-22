@@ -1,4 +1,4 @@
-package Evaluacion2.boletin12;
+package evaluacion2.boletin12;
 
 public class Coche {
 	private String matricula;

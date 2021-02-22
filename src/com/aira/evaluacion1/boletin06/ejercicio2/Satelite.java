@@ -1,4 +1,4 @@
-package Evaluacion1.boletin06.ejercicio2;
+package evaluacion1.boletin06.ejercicio2;
 
 public class Satelite {
 	private double meridiano;

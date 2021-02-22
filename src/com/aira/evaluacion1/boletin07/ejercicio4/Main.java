@@ -1,4 +1,4 @@
-package Evaluacion1.boletin07.ejercicio4;
+package evaluacion1.boletin07.ejercicio4;
 
 import java.util.*;
 

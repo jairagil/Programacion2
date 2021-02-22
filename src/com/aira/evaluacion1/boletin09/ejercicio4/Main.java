@@ -1,4 +1,4 @@
-package Evaluacion1.boletin09.ejercicio4;
+package evaluacion1.boletin09.ejercicio4;
 
 import java.util.Scanner;
 

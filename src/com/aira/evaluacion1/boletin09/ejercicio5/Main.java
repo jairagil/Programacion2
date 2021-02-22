@@ -1,4 +1,4 @@
-package Evaluacion1.boletin09.ejercicio5;
+package evaluacion1.boletin09.ejercicio5;
 
 import java.util.ArrayList;
 import java.util.List;

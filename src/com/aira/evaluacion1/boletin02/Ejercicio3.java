@@ -1,4 +1,4 @@
-package Evaluacion1.boletin02;
+package evaluacion1.boletin02;
 
 import java.util.Scanner;
 import java.util.InputMismatchException;

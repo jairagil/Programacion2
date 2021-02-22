@@ -1,4 +1,4 @@
-package Evaluacion1.boletin09.ejercicio1;
+package evaluacion1.boletin09.ejercicio1;
 
 public class Contador {
 	public void calcular(Integer[] numeros) {

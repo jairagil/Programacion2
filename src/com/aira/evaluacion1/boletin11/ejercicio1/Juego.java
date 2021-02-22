@@ -1,4 +1,4 @@
-package Evaluacion1.boletin11.ejercicio1;
+package evaluacion1.boletin11.ejercicio1;
 
 import javax.swing.JOptionPane;
 

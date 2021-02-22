@@ -1,4 +1,4 @@
-package Evaluacion2.boletin13;
+package evaluacion2.boletin13;
 
 public interface IPuedeVolar {
 	float mostrarVelocidadVuelo();

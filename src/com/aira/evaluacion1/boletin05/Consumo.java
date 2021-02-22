@@ -1,4 +1,4 @@
-package Evaluacion1.boletin05;
+package evaluacion1.boletin05;
 
 public class Consumo {
 	private float km;

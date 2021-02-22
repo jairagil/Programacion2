@@ -1,4 +1,4 @@
-package Evaluacion2.boletin14;
+package evaluacion2.boletin14;
 
 import java.util.Scanner;
 

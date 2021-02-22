@@ -1,4 +1,4 @@
-package Evaluacion1.boletin11.ejercicio2;
+package evaluacion1.boletin11.ejercicio2;
 
 import javax.swing.*;
 import java.lang.Math;

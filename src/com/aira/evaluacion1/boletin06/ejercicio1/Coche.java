@@ -1,4 +1,4 @@
-package Evaluacion1.boletin06.ejercicio1;
+package evaluacion1.boletin06.ejercicio1;
 
 public class Coche {
 	private int velocidade;

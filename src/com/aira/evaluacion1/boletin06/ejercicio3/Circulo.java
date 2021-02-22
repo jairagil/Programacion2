@@ -1,4 +1,4 @@
-package Evaluacion1.boletin06.ejercicio3;
+package evaluacion1.boletin06.ejercicio3;
 
 public class Circulo {
 	private double radio;

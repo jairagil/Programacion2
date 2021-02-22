@@ -1,4 +1,4 @@
-package Evaluacion1.boletin02;
+package evaluacion1.boletin02;
 
 public class Ejercicio5 {
 	public static void main(String[] args) {

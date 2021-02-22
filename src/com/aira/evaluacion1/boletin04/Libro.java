@@ -1,4 +1,4 @@
-package Evaluacion1.boletin04;
+package evaluacion1.boletin04;
 
 public class Libro {
 	private int ano;

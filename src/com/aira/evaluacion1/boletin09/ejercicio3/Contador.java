@@ -1,4 +1,4 @@
-package Evaluacion1.boletin09.ejercicio3;
+package evaluacion1.boletin09.ejercicio3;
 
 public class Contador {
 	public void calcular(float altura, float base) {

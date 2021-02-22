@@ -1,4 +1,4 @@
-package Evaluacion2.boletin14;
+package evaluacion2.boletin14;
 
 public class ConversorTemperaturas {
 	public static final float MINTEMPERATURA = 80.0f;
