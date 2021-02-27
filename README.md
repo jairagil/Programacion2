@@ -21,4 +21,5 @@
 - [x] [Boletín 14](/src/com/aira/evaluacion2/boletin14)
 - [x] [Boletín 15](/src/com/aira/evaluacion2/boletin15)  
 - [x] [Boletín 16](/src/com/aira/evaluacion2/boletin16)
-
+- [ ] [Boletín 17](/src/com/aira/evaluacion2/boletin17)
+- [ ] [Boletín 18](/src/com/aira/evaluacion2/boletin17)
