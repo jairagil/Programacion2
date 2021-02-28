@@ -5,11 +5,6 @@ import java.util.Collections;
 import java.util.Iterator;
 
 public class Libreria {
-	/*
-	* TODO
-	*  - Añadir comprobación de que la lista de libros no sea null
-	* */
-
 	private ArrayList<Libro> libros;
 
 	public Libreria() {
@@ -48,7 +43,11 @@ public class Libreria {
 		}
 	}
 
-	public void venderLibro(Libro libro) {
+	public void venderLibro(Libro libro) throws InvalidArrayListException {
+		if (libros.isEmpty() || libros == null) {
+			throw new InvalidArrayListException();
+		}
+
 		if (comprobarUnidades(libro) == 1) {
 			Libro stockLibro = libros.get(libros.indexOf(libro));
 			stockLibro.removeUnidades(1);
@@ -59,7 +58,11 @@ public class Libreria {
 		comprobarUnidades(libro);
 	}
 
-	private int comprobarUnidades(Libro libro) {
+	private int comprobarUnidades(Libro libro) throws InvalidArrayListException {
+		if (libros.isEmpty() || libros == null) {
+			throw new InvalidArrayListException();
+		}
+
 		int indexLibro = libros.indexOf(libro);
 
 		if (indexLibro > -1) {
@@ -77,7 +80,11 @@ public class Libreria {
 	/*
 	* Digamos que está terminada y que funciona, aunque ni la he probado
 	* */
-	private void mostrarLibros() {
+	private void mostrarLibros() throws InvalidArrayListException {
+		if (libros.isEmpty() || libros == null) {
+			throw new InvalidArrayListException();
+		}
+
 		ArrayList<Libro> librosOrenados = libros;
 		Collections.sort(librosOrenados);
 
