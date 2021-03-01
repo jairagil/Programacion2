@@ -2,6 +2,10 @@ package evaluacion2.boletin18;
 
 public class Boletin18 {
 	public static void main(String[] args) {
+		/*
+		* TODO
+		*  - ver fallo buzon.amosarPrimeroNoLeido()
+		* */
 		// creamos el buzón
 		Buzon buzon = new Buzon();
 
@@ -10,6 +14,8 @@ public class Boletin18 {
 			Correo correo = new Correo(String.format("Contenido del correo %d", i));
 			buzon.agregar(correo);
 		}
+
+
 
 		System.out.println(buzon.amosarPrimeroNoLeido());
 		System.out.println(buzon.amosarPrimeroNoLeido());

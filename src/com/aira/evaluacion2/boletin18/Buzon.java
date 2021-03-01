@@ -47,10 +47,9 @@ public class Buzon {
 		Iterator<Correo> it = correos.iterator();
 
 		while (it.hasNext()) {
-			Correo correo = it.next();
-
-			if (!correo.getLeido()) {
-
+			if (it.next().getLeido() == false) {
+				it.next().setLeido(true);
+				return it.next().getContenido();
 			}
 		}
 
