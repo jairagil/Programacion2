@@ -14,6 +14,13 @@ public class Libro implements Comparable<Libro>{
 		this.precio = precio;
 		this.titulo = titulo;
 		this.unidades = unidades;
+
+		if (unidades > 0) {
+			this.activo = true;
+		} else {
+			this.activo = false;
+		}
+
 	}
 
 	public Boolean getActivo() {

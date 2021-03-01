@@ -11,6 +11,11 @@ public class Libreria {
 		libros = new ArrayList<Libro>();
 	}
 
+	/**
+	 * Permite agregar un libro a la lista.
+	 *
+	 * @param libro libro a añadir.
+	 */
 	public void agregarLibro(Libro libro) {
 		if (libros.indexOf(libro) > -1) {
 			libros.add(libro);
@@ -20,16 +25,22 @@ public class Libreria {
 
 	}
 
-	public void agregarUnidades(String ISBN, int unidades) {
+	/**
+	 * Permite agregar unidades a un libro ya existente.
+	 *
+	 * @param isbn el ISBN del libro.
+	 * @param unidades unidades a agregar.
+	 */
+	public void agregarUnidades(String isbn, int unidades) {
 		// Compruba que los parametros sean correctos
-		if ((ISBN.length() == 0) || (unidades <= 0)) {
+		if ((isbn.length() == 0) || (unidades <= 0)) {
 			return;
 		}
 
 		Iterator<Libro> it = libros.iterator();
 
 		while (it.hasNext()) {
-			if (ISBN == it.next().getISBN()) {
+			if (isbn == it.next().getISBN()) {
 				// Si el libro no está activo
 				if (!it.next().getActivo()) {
 					it.next().setActivo(true);
@@ -43,6 +54,11 @@ public class Libreria {
 		}
 	}
 
+	/**
+	 * Permite vender un libro, una unidad.
+	 *
+	 * @param libro libro a vender.
+	 */
 	public void venderLibro(Libro libro) throws InvalidArrayListException {
 		if (libros.isEmpty() || libros == null) {
 			throw new InvalidArrayListException();
@@ -58,6 +74,11 @@ public class Libreria {
 		comprobarUnidades(libro);
 	}
 
+	/**
+	 * Comprueba si quedan unidades de un libro concreto, de lo contrario lo da de baja.
+	 *
+	 * @param libro libro a comprobar.
+	 */
 	private int comprobarUnidades(Libro libro) throws InvalidArrayListException {
 		if (libros.isEmpty() || libros == null) {
 			throw new InvalidArrayListException();
@@ -77,10 +98,10 @@ public class Libreria {
 		return -1;
 	}
 
-	/*
-	* Digamos que está terminada y que funciona, aunque ni la he probado
-	* */
-	private void mostrarLibros() throws InvalidArrayListException {
+	/**
+	 * Muestra los libros activos
+	 */
+	public void mostrarLibros() throws InvalidArrayListException {
 		if (libros.isEmpty() || libros == null) {
 			throw new InvalidArrayListException();
 		}
@@ -91,11 +112,13 @@ public class Libreria {
 		Iterator<Libro> it = libros.iterator();
 
 		while (it.hasNext()) {
-			System.out.printf("%s Unidades: %i ISBN: %s",
-					it.next().getTitulo(),
-					it.next().getUnidades(),
-					it.next().getISBN()
-			);
+			if (it.next().getActivo()) {
+				System.out.printf("%s Unidades: %i ISBN: %s",
+						it.next().getTitulo(),
+						it.next().getUnidades(),
+						it.next().getISBN()
+				);
+			}
 		}
 	}
 }
